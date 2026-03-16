@@ -188,6 +188,8 @@ The trial period (Feb 2019 – Apr 2019) was highlighted to visually assess **wh
 ---
 
 ## Project Structure
+
+```
 Quantium-Data-Analytics-Virtual-Experience
 │
 ├── data
@@ -198,7 +200,7 @@ Quantium-Data-Analytics-Virtual-Experience
 │   └── Aruneshwaran_Sivakumar_Quantium_Data_Analytics_Virtual_Experience.ipynb
 │
 ├── outputs
-│   └── cleaned_qvi_data.rar  # Compressed Excel file of the cleaned data
+│   └── cleaned_qvi_data.rar      # Compressed Excel file of the cleaned data
 │
 ├── presentation
 │   └── Aruneshwaran Sivakumar_Quantium Retail Analysis.pdf
@@ -209,7 +211,7 @@ Quantium-Data-Analytics-Virtual-Experience
 ├── requirements.txt
 │
 └── README.md
-
+```
 ---
 
 # Results
