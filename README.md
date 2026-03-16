@@ -187,7 +187,7 @@ The trial period (Feb 2019 – Apr 2019) was highlighted to visually assess **wh
 
 ---
 
-# Project Structure
+## Project Structure
 Quantium-Data-Analytics-Virtual-Experience
 │
 ├── data
