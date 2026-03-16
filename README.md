@@ -228,4 +228,3 @@ This project demonstrates how data analytics can be used to:
 # Acknowledgement
 
 This project was completed as part of the **Quantium Data Analytics Virtual Experience Program** hosted on the Forage platform.
-This project was completed as part of the **Quantium Data Analytics Virtual Experience Program** hosted on the Forage platform.
